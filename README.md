@@ -1,7 +1,7 @@
 # Chitchat 💻
 A Firebase WebRTC Video Chat App 
 
-<h2>Hey! I'm Xitiz Verma! along with Manthan Kumar <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>Hey! I'm Xitiz Verma along with Manthan Kumar <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 In this age of social distancing, Let's Chitchat. 
